@@ -1,0 +1,32 @@
+.hii{
+    position: relative;
+    background-color: burlywood;
+    max-width: 500px;
+    min-height: fit-content;
+    background-color: chartreuse;
+    color: brown;
+    margin-left: 82%;
+    top: -300px;
+    left: -300px;
+}
+
+img{
+    width: 450px;
+    min-height:fit-content ;
+}
+
+.hiiii{
+    background-color:aquamarine;
+    position: absolute;
+}
+
+.java-content{
+    position: relative;
+    background-color: blueviolet;
+height: 300px;
+}
+.hello1{
+    position: sticky;
+    background-color: green;
+    top: 0px;
+}
